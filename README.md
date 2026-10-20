@@ -1,6 +1,6 @@
 # Enterprise RAG Knowledge Assistant
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi) ![pgvector](https://img.shields.io/badge/pgvector-HNSW-blueviolet) ![LangGraph](https://img.shields.io/badge/LangGraph-stateful-orange) ![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?logo=fastapi) ![pgvector](https://img.shields.io/badge/pgvector-HNSW-blueviolet) ![LangGraph](https://img.shields.io/badge/LangGraph-stateful-orange) 
 
 A production-grade Retrieval-Augmented Generation system built with FastAPI, LangGraph, and pgvector. Hardened for production with connection pooling, OpenAI retry, JWT-protected admin endpoints, Alembic migrations, BM25 corpus caching, correlation ID tracing, and CI/CD.
 
